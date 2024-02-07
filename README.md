@@ -5,3 +5,6 @@ This project has maked for my coder tutorials in my blog
 Python - Programming Language <br/>
 PyQt - User Interace <br/>
 PostgreSQL - DataBase
+
+## Preview
+<img src="src/nao">
