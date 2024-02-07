@@ -7,4 +7,4 @@ PyQt - User Interace <br/>
 PostgreSQL - DataBase
 
 ## Preview
-<img src="src/nao">
+<img src="src/nao.png">
